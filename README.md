@@ -110,9 +110,15 @@ This repository documents **CumulativeCorr v1.0.0**, the version archived for th
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`.
+CumulativeCorr v1.0.0 is permanently archived in Zenodo.
 
-A permanent software DOI will be added after archival in Zenodo.
+**DOI:** https://doi.org/10.5281/zenodo.23334955
+
+Please cite the software as:
+
+Seo, M.-J. (2026). *CumulativeCorr* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23334955
+
+Citation metadata are also provided in `CITATION.cff`.
 
 ## License
 
