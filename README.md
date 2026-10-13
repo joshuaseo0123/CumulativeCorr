@@ -5,8 +5,8 @@
 It is designed for datasets containing:
 
 - stratigraphic level measured from the base of the studied interval (m)
-- δ13C
-- δ18O
+- d13C
+- d18O
 
 CumulativeCorr calculates cumulative **Pearson correlation coefficients** and **Spearman rank correlation coefficients**, together with their p-values and sample sizes.
 
