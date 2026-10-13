@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "CumulativeCorr"
+type: software
+authors:
+  - family-names: "Seo"
+    given-names: "Myung-Jun"
+    email: "mseo2@crimson.ua.edu"
+version: "1.0.0"
+license: "MIT"
+abstract: >-
+  CumulativeCorr is a Streamlit-based application for cumulative
+  Pearson and Spearman correlation analysis of paired delta13C and delta18O
+  data through a stratigraphic section, with downward and upward cumulative
+  analysis modes.
+keywords:
+  - stable isotopes
+  - carbon isotopes
+  - oxygen isotopes
+  - stratigraphy
+  - correlation analysis
+  - Pearson correlation
+  - Spearman correlation
